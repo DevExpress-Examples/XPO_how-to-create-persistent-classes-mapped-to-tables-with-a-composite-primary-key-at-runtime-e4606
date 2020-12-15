@@ -13,6 +13,6 @@
     <Compile Include="..\XpoConsoleApplication - VB\XPComplexCustomMemberInfo.vb" Link="XPComplexCustomMemberInfo.vb" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Xpo" Version="19.2.10" />
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.11" />
   </ItemGroup>
 </Project>
