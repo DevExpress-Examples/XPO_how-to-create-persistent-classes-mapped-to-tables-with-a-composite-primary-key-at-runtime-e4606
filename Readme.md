@@ -6,8 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Program.cs](./CS/XpoConsoleApplication/Program.cs) (VB: [Program.vb](./VB/XpoConsoleApplication/Program.vb))
-* **[XPComplexCustomMemberInfo.cs](./CS/XpoConsoleApplication/XPComplexCustomMemberInfo.cs) (VB: [XPComplexCustomMemberInfo.vb](./VB/XpoConsoleApplication/XPComplexCustomMemberInfo.vb))**
+* [Program.cs](./CS/XpoConsoleApplication/Program.cs)
+* **[XPComplexCustomMemberInfo.cs](./CS/XpoConsoleApplication/XPComplexCustomMemberInfo.cs)**
 <!-- default file list end -->
 # How to create persistent classes mapped to tables with a composite primary key at runtime 
 
